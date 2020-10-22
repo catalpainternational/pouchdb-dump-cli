@@ -21,6 +21,9 @@
     "Lee Humphries <lee@catalpa.io>"
   ],
   "license": "Apache-2.0",
+  "bin": {
+    "pouchdb-dump": "./index.js"
+  },  
   "bugs": {
     "url": "https://github.com/catalpainternational/pouchdb-dump-cli/issues"
   },
