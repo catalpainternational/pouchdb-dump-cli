@@ -19,10 +19,10 @@ To dump from within your JavaScript code (either in Node.js or in the browser), 
 Usage
 --------
 
-To install:
+To install globally:
 
 ```bash
-$ npm install -g pouchdb-dump-cli
+$ npm i -g @catalpa_international/pouchdb-dump-cli
 ```
 
 To dump a CouchDB:
