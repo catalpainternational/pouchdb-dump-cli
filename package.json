@@ -1,6 +1,6 @@
 {
   "name": "@catalpa_international/pouchdb-dump-cli",
-  "version": "2.0.10",
+  "version": "2.0.11",
   "description": "Tool to dump from a PouchDB/CouchDB database",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   "license": "Apache-2.0",
   "bin": {
     "pouchdb-dump": "./index.js"
-  },  
+  },
   "bugs": {
     "url": "https://github.com/catalpainternational/pouchdb-dump-cli/issues"
   },
